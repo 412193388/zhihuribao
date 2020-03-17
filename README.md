@@ -10,5 +10,5 @@
 <li>采用异步通信axios方法查询知乎日报的api，并且应用数据进行页面更新</li>
 <li>运用了vue的生命周期函数</li>
 </ul>
-	
+<h2>效果图</h2>
 <img src="https://github.com/412193388/zhihuribao/blob/master/img_folder/xiaoguotu.png">
