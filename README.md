@@ -13,4 +13,4 @@
   <li>运用了vue的生命周期函数</li>
 </ul>
 <h2>效果图</h2>
-<img src="https://github.com/412193388/zhihuribao/blob/master/img_folder/xiaoguotu.png">
+<img src="https://ae01.alicdn.com/kf/Hb0a6218cd335416e83e3a8aa90f48234y.png">
